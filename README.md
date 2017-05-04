@@ -1,5 +1,5 @@
-# Basic Project
-## Basic Project Structure
+# Jogged-hours Project
+## Jogged-hours Project Structure
 
 *Default Structure for A Basic Project*
 
